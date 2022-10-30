@@ -9,3 +9,11 @@ body{
     background-color: #ebf2ff ;
 }
 
+.listimg{
+    width: 55px;
+    height: 50px;
+}
+
+.modal-body{
+    border-radius: 10px;
+}
